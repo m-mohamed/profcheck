@@ -1,0 +1,9 @@
+.env.local
+.env
+node_modules/
+.next/
+.convex/
+.turbo/
+dist/
+coverage/
+*.tsbuildinfo
